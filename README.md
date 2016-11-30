@@ -1,4 +1,4 @@
-# third_robot_lower_step_detector
+# lower_step_detector
 ## Summary
 3号機の斜め下向きLRFで下方段差を検出する機能
 
