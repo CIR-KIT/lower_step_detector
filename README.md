@@ -1,4 +1,5 @@
-# lower_step_detector
+# lower_step_detector [![Build Status](https://travis-ci.org/CIR-KIT/lower_step_detector.svg?branch)](https://travis-ci.org/CIR-KIT/lower_step_detector) [![Slack](https://img.shields.io/badge/Slack-CIR--KIT-blue.svg)](http://cir-kit.slack.com/messages/lower_step_detector)
+
 ## Summary
 3号機の斜め下向きLRFで下方段差を検出する機能
 
